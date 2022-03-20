@@ -17,7 +17,7 @@ https://archiveofourown.org/works?utf8=%E2%9C%93&work_search%5Bsort_column%5D=re
 #### Text Generation
 
 ```shell
-./bin/ml_generate.sh https://raw.githubusercontent.com/artificial-podcast/datasets/main/generated/granger_test/granger_test.yaml
+./bin/ml_generate.sh https://raw.githubusercontent.com/artificial-podcast/datasets/main/prompts/granger_test.yaml
 ```
 
 Labels:
