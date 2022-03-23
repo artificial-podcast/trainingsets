@@ -1,5 +1,5 @@
 # trainingsets
-Raw text files used to fine-tune the GPT-2 model
+Raw text files used to fine-tune the GPT-2 124M model
 
 ### Disclaimer
 
