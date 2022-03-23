@@ -2,3 +2,5 @@
 *.txt.bak
 hack/
 stuff.md
+merge_*.txt
+*.training.txt
