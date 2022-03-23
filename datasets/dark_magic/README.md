@@ -22,16 +22,12 @@ Labels:
 * multi-fandom
 * potterverse
 * original work
-* Vampire Chronicles - Anne Rice
-* The Little Mermaid 
-* Captain America (Movies)
-* The Avengers (Marvel Movies)
-* The Vampire Diaries (TV)
-* Fire Emblem: Fuukasetsugetsu
-* Bangtan Boys | BTS
-* Justice League Dark: Apokolips War (2020)
-* The Magnus Archives
-* Shadowhunters (TV)
-* Sleeping Beauty (1959)
-* Disney Oneshots
+* vampire chronicles - anne rice
+* captain america (movies)
+* the avengers (movies)
+* the vampire diaries (tv)
+* fire emblem: Fuukasetsugetsu
+* bangtan boys | BTS
+* shadowhunters
+* disney
 * nsfw
